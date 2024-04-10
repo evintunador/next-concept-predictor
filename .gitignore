@@ -166,3 +166,7 @@ __pycache__/
 *.DS_Store
 
 
+# tiny stories dataset is too big for github
+tiny_stories_train_data.pkl
+tiny_stories_val_data.pkl
+
